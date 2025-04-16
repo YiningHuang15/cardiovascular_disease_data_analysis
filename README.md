@@ -9,8 +9,7 @@ The ETL diagram is shown below. A one-time data extract was run from csv to Micr
 
 
 ## Data Source
-Kaggle dataset
-![alt text](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
+[Kaggle dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
 
 ## Folder Structure
 - dat: csv
